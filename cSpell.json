@@ -1,0 +1,17 @@
+{
+    "version": "0.1",
+    "language": "en",
+    "words": [
+        "Truthy",
+        "Injectable",
+        "ngrx",
+        "gitignore",
+        "repo",
+        "polyfills",
+        "Googlebot",
+        "classlist"
+    ],
+    "ignorePaths": [
+        ".gitignore"
+    ]
+}

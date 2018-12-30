@@ -30,8 +30,7 @@ export class MapComponent implements AfterViewInit {
 
         const g = svg.append('g');
 
-        g.append('image')
-            .attr('href', 'assets/images/tube-map.svg');
+        g.append('image').attr('href', 'assets/images/tube-map.svg');
 
         const zoomIn = d3.select('#zoom-in');
 

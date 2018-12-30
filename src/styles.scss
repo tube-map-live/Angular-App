@@ -1,11 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+// You can add global styles to this file, and also import other style files
+
 @font-face {
     font-family: NJFont;
-    src: url(assets/fonts/NJFont-Medium.ttf);
+    src: url('assets/fonts/NJFont-Medium.ttf');
 }
 
 html {
-    font-family: NJFont
+    font-family: NJFont;
 }
 
 body {
