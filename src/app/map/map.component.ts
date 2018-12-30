@@ -1,3 +1,4 @@
+// tslint:disable
 import { Component, AfterViewInit } from '@angular/core';
 import * as d3 from 'd3';
 
